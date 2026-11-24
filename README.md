@@ -10,7 +10,7 @@ The starter project for **Part 3** of the wgpu series. It draws the whole scene 
 > **Watch the video:** https://youtu.be/0R-nBk1PbF4
 > **Finished code:** https://github.com/CodynnYT/wgpu-cloth-simulation.git
 
-![Starter screenshot](docs/part3-starter.png)
+![Starter screenshot](part3-starter.png)
 
 ## What's already done
 
